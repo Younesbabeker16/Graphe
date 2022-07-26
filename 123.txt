@@ -1,0 +1,8 @@
+Nbr Nodes: 5
+Directed: True
+1 2  
+2 3
+2 4
+4 5
+1 5
+5 3
